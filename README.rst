@@ -1,9 +1,7 @@
 TDDBC for Python nose
 =====================
 
-これは、TDDBCのPythonista向け `nose`_ プロジェクトです
-
-.. _nose:https://pypi.python.org/pypi/nose/
+これは、TDDBCのPythonista向け `nose <https://pypi.python.org/pypi/nose/>`_ プロジェクトです
 
 動作環境
 --------
