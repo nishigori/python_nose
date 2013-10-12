@@ -1,0 +1,9 @@
+.DS_Store
+tags
+*.pyo
+*.pyc
+dist
+*.egg
+*.egg-info
+.tox
+.coverage
